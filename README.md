@@ -49,13 +49,13 @@
 </head>
 <body>
     <form action="your-server-endpoint" method="post">
-        <label for="email">البريد الإلكتروني:</label>
+        <label for="email">Email:</label>
         <input type="email" id="email" name="email" required>
         <br>
-        <label for="password">كلمة المرور:</label>
+        <label for="password">Password:</label>
         <input type="password" id="password" name="password" required>
         <br>
-        <input type="submit" value="تسجيل">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
